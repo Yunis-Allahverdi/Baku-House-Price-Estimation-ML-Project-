@@ -106,7 +106,7 @@ pip install pandas numpy scikit-learn matplotlib seaborn pillow
 ```bash
 python main.py
 ```
-## ⚠️ Notes
+## Notes
 
 - Predictions are estimates, not exact market prices
 - Accuracy depends on dataset quality
